@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh Sharma  👋
 
-I am skilled in React Development. 
+I am skilled in React Development. I am a pre-final year student of Software-Engineering .
 
 - 🔭 I’m currently working on my React Skills
 - 🌱 I’m currently learning about Backend.
